@@ -19,6 +19,12 @@ public class EjemploRepositorio {
         System.out.println("Daniel Gómez");
         System.out.println("Computación Visual");
         System.out.println("Ing. Hernan Naranjo");
+        // Modificaciones 
+        System.out.println("Nuevo Usuario Colaborador");
+        System.out.println("Nombre usuario = damd06");
+        System.out.println("UTA");
+        //Actualizar modificacion en GitHub
+        //
     }
     
 }
